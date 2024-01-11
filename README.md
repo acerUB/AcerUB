@@ -2,7 +2,8 @@ en: hi! this is a russian userbot writing on pyrogram
 
 
 todo:
-start project
+start project,
+
 create one commands
 
 ru: привет! это российский юзербот написаный на пирограме
@@ -10,6 +11,10 @@ ru: привет! это российский юзербот написаный 
 
 в планах сделать:
 
-старт проэкта(первый код)
+старт проэкта(первый код),
+
+
+
+
 создать первые комманды 
 
